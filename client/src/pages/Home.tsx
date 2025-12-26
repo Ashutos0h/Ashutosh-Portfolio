@@ -300,7 +300,7 @@ export default function Home() {
                   </div>
                   <div>
                     <h4 className="text-white font-medium">LinkedIn</h4>
-                    <a href="https://linkedin.com/in/ashutosh-verma" className="text-muted-foreground hover:text-primary transition-colors">linkedin.com/in/ashutosh-verma</a>
+                    <a href="https://www.linkedin.com/in/ashutosh-verma04/" className="text-muted-foreground hover:text-primary transition-colors">linkedin.com/in/ashutosh-verma</a>
                   </div>
                 </div>
                 
@@ -310,7 +310,7 @@ export default function Home() {
                   </div>
                   <div>
                     <h4 className="text-white font-medium">GitHub</h4>
-                    <a href="https://github.com/ashutosh-verma" className="text-muted-foreground hover:text-primary transition-colors">github.com/ashutosh-verma</a>
+                    <a href="https://github.com/Ashutos0h" className="text-muted-foreground hover:text-primary transition-colors">github.com/ashutosh-verma</a>
                   </div>
                 </div>
               </div>
