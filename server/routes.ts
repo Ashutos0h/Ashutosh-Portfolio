@@ -10,7 +10,7 @@ export async function registerRoutes(
 ): Promise<Server> {
   
   // Seed data on startup
-  await storage.seedData();
+  // await storage.seedData();
 
   app.get(api.skills.list.path, async (_req, res) => {
     const skills = await storage.getSkills();
