@@ -102,10 +102,10 @@ export default function Home() {
               transition={{ duration: 0.6, delay: 0.5 }}
               className="mt-12 flex items-center justify-center md:justify-start gap-6 text-muted-foreground"
             >
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
+              <a href="https://github.com/Ashutos0h" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
                 <FaGithub className="w-6 h-6" />
               </a>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
+              <a href="https://www.linkedin.com/in/ashutosh-verma04/" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
                 <FaLinkedin className="w-6 h-6" />
               </a>
               <div className="h-4 w-[1px] bg-white/20 mx-2" />
@@ -324,7 +324,8 @@ export default function Home() {
       {/* ================= FOOTER ================= */}
       <footer className="py-8 bg-black border-t border-white/10 text-center">
         <p className="text-muted-foreground text-sm">
-          © {new Date().getFullYear()} Ashutosh Verma. Built with React & NVIDIA AI aesthetics.
+          © {new Date().getFullYear()} Ashutosh Verma • Built with <span className="text-red-500">♥</span> 
+    
         </p>
       </footer>
     </div>
